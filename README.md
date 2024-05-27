@@ -6,7 +6,7 @@
 ### 🛠 Languages and Tools
 
 <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white"/> 
-<img src="https://img.shields.io/badge/c-A8B9CC?style=plastic&logo=c&logoColor=white"/><img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white" />  <img src="https://img.shields.io/badge/github-181717?style=plastic&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/git-F05032?style=plastic&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/c-A8B9CC?style=plastic&logo=c&logoColor=white"/><img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/springboot-6DB33F?style=plastic&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white" />  <img src="https://img.shields.io/badge/github-181717?style=plastic&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/git-F05032?style=plastic&logo=git&logoColor=white"/>
 
 ### 🚩 Baekjoon
 
