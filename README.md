@@ -1,4 +1,3 @@
-<div align="center">
 
 👋 안녕하세요! 경북대학교 CSE 22학번 이지호 입니다.
 ----------------
@@ -15,6 +14,4 @@
 ![GitJIHO's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitJIHO&include_all_commits=true&show_icons=true&theme=radical&count_private=true)
 ### 🚩 Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiho9932)](https://solved.ac/jiho9932/)
-
-</div>
 
