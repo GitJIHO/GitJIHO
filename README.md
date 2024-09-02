@@ -3,7 +3,8 @@
 
 ### 💻 Activities
 * 카카오테크캠퍼스 BE 2기 (2024.04~)
-* 2024 GLOW HACKATHON (2024.06.01) 
+* 2024 GLOW HACKATHON (2024.06.01)
+* 카카오테크캠퍼스 아이디어톤 (2024.08.22)
 
 ### 🛠 Languages and Tools
 
