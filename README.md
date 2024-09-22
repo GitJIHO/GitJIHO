@@ -6,6 +6,7 @@
 * 2024 GLOW HACKATHON (2024.06.01)
 * 카카오테크캠퍼스 아이디어톤 (2024.08.22)
 * Google Developers Group On Campus knu 4기 BE (2024.09.19~)
+* 2024 대구를 빛내는 해커톤 (2024.9.22)
 
 ### 🛠 Languages and Tools
 
