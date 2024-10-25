@@ -1,5 +1,4 @@
-
-## 👋 안녕하세요! 경북대학교 CSE 22학번 이지호 입니다.
+![header](https://capsule-render.vercel.app/api?type=soft&color=333333&height=120&section=header&text=👋%20안녕하세요!%20경북대학교%20CSE%2022학번%20이지호%20입니다%20&fontSize=33&animation=twinkling&fontColor=FFFFFF&fontAlignY=52)
 
 ### 💻 Activities
 * 카카오테크캠퍼스 2기 BE (2024.04~)
@@ -16,5 +15,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitJIHO&layout=compact&theme=codeSTACKr&count_private=true)
 ### 📋 GitHub Stats
 ![GitJIHO's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitJIHO&include_all_commits=true&show_icons=true&theme=codeSTACKr&count_private=true)
+<br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGitJIHO%2F&count_bg=%233DB7C8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ### 🚩 Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiho9932)](https://solved.ac/jiho9932/)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer)
