@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=333333&height=120&section=header&text=👋%20안녕하세요!%20경북대학교%20CSE%2022학번%20이지호%20입니다%20&fontSize=25&animation=twinkling&fontColor=FFFFFF&fontAlignY=52)
+![header](https://capsule-render.vercel.app/api?type=soft&color=333333&height=120&section=header&text=👋%20안녕하세요!%20경북대학교%20CSE%2022학번%20이지호%20입니다%20&fontSize30&animation=twinkling&fontColor=FFFFFF&fontAlignY=52)
 
 ### 💻 Activities
 * 카카오테크캠퍼스 2기 BE (2024.04~)
