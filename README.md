@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=4B4B4B&height=180&section=header&text=👋%20안녕하세요!%20경북대학교%20CSE%2022학번%20이지호%20입니다%20&fontSize=30&animation=twinkling&fontColor=FFFFFF&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=waving&color=4B4B4B&height=180&section=header&text=👋%20안녕하세요!%20경북대학교%20CSE%2022학번%20이지호%20입니다%20&fontSize=30&animation=twinkling&fontColor=FFFFFF&fontAlignY=37)
 <p align="center" style="margin-top: -100px;">
  
  ### 💻 Activities
