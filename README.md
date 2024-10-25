@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=FFAF00&height=120&section=header&text=👋%20안녕하세요!%20경북대학교%20CSE%2022학번%20이지호%20입니다%20&fontSize=30&animation=twinkling&fontColor=FFFFFF&fontAlignY=52)
+![header](https://capsule-render.vercel.app/api?type=soft&color=FFA500&height=120&section=header&text=👋%20안녕하세요!%20경북대학교%20CSE%2022학번%20이지호%20입니다%20&fontSize=30&animation=twinkling&fontColor=FFFFFF&fontAlignY=52)
 
 ### 💻 Activities
 * 카카오테크캠퍼스 2기 BE (2024.04~)
@@ -21,4 +21,4 @@
 ### 🚩 Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiho9932)](https://solved.ac/jiho9932/)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=FF9B00&height=100&section=footer)
