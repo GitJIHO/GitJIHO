@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=4B4B4B&height=120&section=header&text=👋%20안녕하세요!%20경북대학교%20CSE%2022학번%20이지호%20입니다%20&fontSize=30&animation=twinkling&fontColor=FFFFFF&fontAlignY=52)
-
-### 💻 Activities
+![header](https://capsule-render.vercel.app/api?type=waving&color=4B4B4B&height=170&section=header&text=👋%20안녕하세요!%20경북대학교%20CSE%2022학번%20이지호%20입니다%20&fontSize=30&animation=twinkling&fontColor=FFFFFF&fontAlignY=32)
+<p align="center" style="margin-top: -100px;">
+ 
+ ### 💻 Activities
 * 카카오테크캠퍼스 2기 BE (2024.04~)
 * 2024 GLOW 해커톤 (2024.06.01) : **본선 진출**
 * 카카오테크캠퍼스 아이디어톤 (2024.08.22)
