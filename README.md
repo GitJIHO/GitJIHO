@@ -7,6 +7,7 @@
 * 카카오테크캠퍼스 아이디어톤 (2024.08.22)
 * **Google Developers Group** On Campus knu 4기 BE (2024.09~)
 * 2024 대구를 빛내는 해커톤 (2024.09.22) : **대상 수상** 🥇
+* 2024 GDG Vision Challengethon (2024.11.15)
 
 ### 🛠 Languages and Tools
 
