@@ -8,7 +8,7 @@
 * **Google Developers Group** On Campus knu 4기 BE (2024.09~)
 * 2024 대구를 빛내는 해커톤 (2024.09.22) : **대상 수상** 🥇
 * 2024 GDG Vision Challengethon (2024.11.15)
-* **카카오테크캠퍼스** 2기 BE 최종 발표 및 수료 (2024.11.25)
+* **카카오테크캠퍼스** '나만의 작은 시니또' 서비스 최종 발표 및 수료 (2024.11.25)
 
 ### 🛠 Languages and Tools
 
