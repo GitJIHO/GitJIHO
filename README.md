@@ -2,7 +2,7 @@
 <p align="center" style="margin-top: -100px;">
  
  ### 💻 Activities
-* **카카오테크캠퍼스** 2기 BE (2024.04~2024.11.20)
+* **카카오테크캠퍼스** 2기 BE (2024.04~2024.11)
 * 2024 GLOW 해커톤 (2024.06.01)
 * 카카오테크캠퍼스 아이디어톤 (2024.08.22)
 * **Google Developers Group** On Campus knu 4기 BE (2024.09~)
