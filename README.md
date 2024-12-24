@@ -10,7 +10,7 @@
 * 2024 GDG Vision Challengethon (2024.11.15)
 * **카카오테크캠퍼스** 장기 프로젝트 '나만의 작은 시니또' 서비스 런칭 및 최종 발표 (2024.11.25)
 
-### 🛠 Languages and Tools
+### 🛠 Languages and Tools 
 
  <img src="https://img.shields.io/badge/Java-000000?style=plastic&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/springboot-6DB33F?style=plastic&logo=Springboot&logoColor=white" /> <img src="https://img.shields.io/badge/mysql-4479A1?style=plastic&logo=MySQL&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/c-A8B9CC?style=plastic&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white" /> <img src="https://img.shields.io/badge/git-F05032?style=plastic&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=plastic&logo=github&logoColor=white"/><div>
