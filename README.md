@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=33333&height=180&section=header&text=👋%20안녕하세요!%20경북대학교%20CSE%2022학번%20이지호%20입니다%20&fontSize=29&animation=twinkling&fontColor=FFFFFF&fontAlignY=35)
 <p align="center" style="margin-top: -100px;">
  
- ### 💻 Activities
+ ### 💻 Activities 
 * **카카오테크캠퍼스** 2기 BE (2024.04~2024.11)
 * 2024 GLOW 해커톤 (2024.06.01)
 * 카카오테크캠퍼스 아이디어톤 (2024.08.22)
