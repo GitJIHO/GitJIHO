@@ -18,7 +18,7 @@
     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
     <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="40" height="40" />
     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
-    </div>
+    </div> 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitJIHO&layout=compact&theme=codeSTACKr&count_private=true)
 
