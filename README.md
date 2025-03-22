@@ -10,7 +10,7 @@
 * 2024 GDG Vision Challengethon (2024.11.15)
 * **카카오테크캠퍼스** 장기 프로젝트 '나만의 작은 시니또' 서비스 개발 (2024.09 ~ 2024.11)
 * **GDGoc** 사이드 프로젝트 함께 공부하는 공간 '알고 하이브' 서비스 개발 (2025.01 ~ 2025.02)
-* Capstone with **Microsoft** 'Azure OpenAI 및 Semantic Kernel을 활용한 인터뷰 코치' 서비스 개발 (2025.03 ~ ing)
+* Capstone with **Microsoft** 'Azure OpenAI 및 Semantic Kernel을 활용한 인터뷰 코치' 서비스 개발중 (2025.03 ~ ing)
 
 ### 🛠 Languages and Tools
 
