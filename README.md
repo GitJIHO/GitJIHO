@@ -29,4 +29,15 @@
 ### 🚩 Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiho9932)](https://solved.ac/jiho9932/)
 
+### 🔗 Contact
+
+<a href="https://velog.io/@easy_ho/posts" target="_blank">
+  <img height="28" src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/easyho" target="_blank">
+  <img height="28" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer)
+
