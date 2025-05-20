@@ -11,8 +11,8 @@
 * **카카오테크캠퍼스** 장기 프로젝트 '나만의 작은 시니또' 서비스 Backend 개발 (2024.09 ~ 2024.11)
 * **Google Developer Group** 사이드 프로젝트 함께 공부하는 공간 '알고 하이브' 서비스 Backend 개발 (2025.01 ~ 2025.02)
 * Capstone with **Microsoft** 'Azure OpenAI 및 Semantic Kernel을 활용한 인터뷰 코치' 서비스 DevOps 개발중 (2025.03 ~ ing)
-* 실사용자 3000명+ 뉴스레터 관리 앱 NEWZET 서비스 Backend 고도화 및 확장 (2025.04 ~ ing)
 * **2025 Google Developer Groups APAC Solution Challenge** AI-Powered Emotional Support Diary "Todak" Backend 개발 (2025.03 ~ 2025.05)
+* 실사용자 3000명+ 뉴스레터 관리 앱 NEWZET 서비스 Backend 고도화 및 확장 (2025.04 ~ ing)
 
 ### 🛠 Languages and Tools
 
