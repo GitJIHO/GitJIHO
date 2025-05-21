@@ -34,7 +34,9 @@
 <a href="https://velog.io/@easy_ho/posts" target="_blank">
   <img height="28" src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white" />
 </a>
-&nbsp;
+
+<br>
+
 <a href="https://www.linkedin.com/in/easyho" target="_blank">
   <img height="28" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
