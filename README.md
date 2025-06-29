@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=33333&height=180&section=header&text=👋%20안녕하세요!%20경북대학교%20CSE%2022학번%20이지호%20입니다%20&fontSize=29&animation=twinkling&fontColor=FFFFFF&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=33333&height=160&section=header&text=👋%20Hi%20there!%20I'm%20Jiho%20Lee,%20a%20backend%20developer%20&fontSize=29&animation=twinkling&fontColor=FFFFFF&fontAlignY=32)
 <p align="center" style="margin-top: -100px;">
  
  ### 💻 Activities
@@ -15,6 +15,9 @@
 * 실사용자 3000명+ 뉴스레터 관리 앱 NEWZET 서비스 Backend 고도화 및 확장 (2025.04 ~ ing)
 * **AI COSS** 일상의 순간을 돈으로, DDIP 서비스 Backend 및 AI 개발 (2025.5 ~ ing)
 * [**Microsoft AI.NET Day**](https://event-us.kr/msftkrdevrel/event/103287) "나만의 면접 코치 만든 썰 풀어드립니다.ai (feat. 시맨틱 커널 + MCP)" [강연](https://www.youtube.com/watch?v=JUmYN7E7hy8&list=LL&index=2&t=197s&ab_channel=MicrosoftDeveloperKorea) 🎤 (2025.05.29)
+
+### 📁 Portfolio
+[**View Portfolio (PDF)**](https://github.com/user-attachments/files/20966891/-.pdf)
 
 ### 🛠 Languages and Tools
 
