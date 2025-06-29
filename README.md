@@ -17,7 +17,9 @@
 * [**Microsoft AI.NET Day**](https://event-us.kr/msftkrdevrel/event/103287) "나만의 면접 코치 만든 썰 풀어드립니다.ai (feat. 시맨틱 커널 + MCP)" [강연](https://www.youtube.com/watch?v=JUmYN7E7hy8&list=LL&index=2&t=197s&ab_channel=MicrosoftDeveloperKorea) 🎤 (2025.05.29)
 
 ### 📁 Portfolio
-[**View Portfolio (PDF)**](https://github.com/user-attachments/files/20966891/-.pdf)
+
+[**View Portfolio (PDF)**](https://github.com/user-attachments/files/20967014/-.2025.06.29v.pdf)
+v2025.06.29
 
 ### 🛠 Languages and Tools
 
