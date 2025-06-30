@@ -19,7 +19,7 @@
 ### 📁 Profile
 
 [**View Resume (PDF)**](https://github.com/user-attachments/files/20980332/-Resume.v2025.06.30.pdf)
-v2025.06.29
+v2025.06.30
 
 ### 🛠 Languages and Tools
 
