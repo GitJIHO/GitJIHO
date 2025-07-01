@@ -5,11 +5,11 @@
 * **카카오테크캠퍼스** 2기 Backend 수료 (2024.04 ~ 2024.11)
 * 2024 GLOW 해커톤 (2024.06.01)
 * 카카오테크캠퍼스 아이디어톤 (2024.08.22)
-* **Google Developers Group** On Campus knu 4기 Backend (2024.09 ~ 2025.06)
+* **Google Developer Groups** On Campus knu 4기 Backend (2024.09 ~ 2025.06)
 * 2024 대구를 빛내는 해커톤 (2024.09.22) : **대상 수상** 🥇 
 * 2024 GDG Vision Challengethon (2024.11.15)
 * **카카오테크캠퍼스** 장기 프로젝트 '나만의 작은 시니또' 서비스 Backend 개발 (2024.09 ~ 2024.11)
-* **Google Developer Group** 사이드 프로젝트 함께 공부하는 공간 '알고 하이브' 서비스 Backend 개발 (2025.01 ~ 2025.02)
+* **Google Developer Groups** 사이드 프로젝트 함께 공부하는 공간 '알고 하이브' 서비스 Backend 개발 (2025.01 ~ 2025.02)
 * Capstone with **Microsoft** 'Azure OpenAI 및 Semantic Kernel을 활용한 인터뷰 코치' 서비스 DevOps 개발 (2025.03 ~ 2025.06)
 * **2025 Google Developer Groups APAC Solution Challenge** AI-Powered Emotional Support Diary "Todak" Backend 개발 (2025.03 ~ 2025.05)
 * 실사용자 3000명+ 뉴스레터 관리 앱 NEWZET 서비스 Backend 고도화 및 확장 (2025.04 ~ ing)
