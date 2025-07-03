@@ -20,6 +20,8 @@
 
 [**View Resume (PDF)**](https://github.com/user-attachments/files/20980332/-Resume.v2025.06.30.pdf)
 v2025.06.30
+[**View portfolio (PDF)**](https://github.com/user-attachments/files/21035002/_.v2025.07.03.pdf)
+v2025.07.03
 
 ### 🛠 Languages and Tools
 
