@@ -5,7 +5,7 @@
 * **카카오테크캠퍼스** 2기 Backend 수료 (2024.04 ~ 2024.11)
 * 2024 GLOW 해커톤 (2024.06.01)
 * 카카오테크캠퍼스 아이디어톤 (2024.08.22)
-* **Google Developer Groups** On Campus knu 4기 Backend (2024.09 ~ 2025.06)
+* **Google Developer Groups** On Campus knu 4기 Backend (2024.09 ~ 2025.07)
 * 2024 대구를 빛내는 해커톤 (2024.09.22) : **대상 수상** 🥇 
 * 2024 GDG Vision Challengethon (2024.11.15)
 * **카카오테크캠퍼스** 장기 프로젝트 '나만의 작은 시니또' 서비스 Backend 개발 (2024.09 ~ 2024.11)
