@@ -18,8 +18,8 @@
 
 ### 📁 Profile
 
-[**View Resume (PDF)**](https://github.com/user-attachments/files/21588683/_Resume.pdf)
-v2025.08.05
+[**View Resume (WEB)**](https://drive.google.com/file/d/1rLgxPQQTcMKkEGgyCYtyPttsgwx-6GGR/view?pli=1)
+v2025.08.13
 
 [**View Portfolio (WEB)**](https://verbena-brother-737.notion.site/224c60340b20807b894af0ee1c7c76a3)
 v2025.07.03
