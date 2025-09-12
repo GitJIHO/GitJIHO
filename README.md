@@ -18,7 +18,7 @@
 
 ### 📁 Profile
 
-[**View Resume (WEB)**](https://drive.google.com/file/d/1GPZ7CdZOmjcXItJqF3YhJ9BybljOvS2o/view?usp=sharing)
+[**View Resume (WEB)**](https://drive.google.com/file/d/1M8JA-YmnbS2qAmsMA7xwo1vpyICzHdyk/view?usp=sharing)
 v2025.09.12
 
 [**View Portfolio (WEB)**](https://verbena-brother-737.notion.site/224c60340b20807b894af0ee1c7c76a3)
