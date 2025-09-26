@@ -16,14 +16,6 @@
 * **AI COSS** 일상의 순간을 돈으로, DDIP 서비스 Backend 및 AI 개발 (2025.05 ~ ing)
 * [**Microsoft AI.NET Day**](https://event-us.kr/msftkrdevrel/event/103287) "나만의 면접 코치 만든 썰 풀어드립니다.ai (feat. 시맨틱 커널 + MCP)" [강연](https://www.youtube.com/watch?v=JUmYN7E7hy8&list=LL&index=2&t=197s&ab_channel=MicrosoftDeveloperKorea) 🎤 (2025.05.29)
 
-### 📁 Profile
-
-[**View Resume (WEB)**](https://drive.google.com/file/d/1M8JA-YmnbS2qAmsMA7xwo1vpyICzHdyk/view?usp=sharing)
-v2025.09.12
-
-[**View Portfolio (WEB)**](https://verbena-brother-737.notion.site/224c60340b20807b894af0ee1c7c76a3)
-v2025.09.11
-
 ### 🛠 Languages and Tools
 
  <img src="https://img.shields.io/badge/Java-000000?style=plastic&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/springboot-6DB33F?style=plastic&logo=Springboot&logoColor=white" /> <img src="https://img.shields.io/badge/mysql-4479A1?style=plastic&logo=MySQL&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white"/>
