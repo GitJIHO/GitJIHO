@@ -14,6 +14,7 @@
 * **2025 Google Developer Groups APAC Solution Challenge** AI-Powered Emotional Support Diary "Todak" Backend 개발 (2025.03 ~ 2025.05)
 * **실사용자 3000명+** 뉴스레터 관리 앱 **NEWZET 서비스** Backend 고도화 및 확장 (2025.04 ~ ing)
 * [**Microsoft AI.NET Day**](https://event-us.kr/msftkrdevrel/event/103287) "나만의 면접 코치 만든 썰 풀어드립니다.ai (feat. 시맨틱 커널 + MCP)" [강연](https://www.youtube.com/watch?v=JUmYN7E7hy8&list=LL&index=2&t=197s&ab_channel=MicrosoftDeveloperKorea) 🎤 (2025.05.29)
+* 웹소설 작가와 스토리텔러를 위한 AI 및 웹서비스 **Storyboard AI** Backend 개발 (2025.09 ~ ing)
 
 ### 🛠 Languages and Tools
 
