@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=33333&height=160&section=header&text=👋%20Hi%20there!%20I'm%20Jiho%20Lee,%20a%20backend%20developer%20&fontSize=29&animation=twinkling&fontColor=FFFFFF&fontAlignY=32)
+![header](https://capsule-render.vercel.app/api?type=waving&color=33333&height=160&section=header&text=Hi%20there!%20I'm%20Jiho%20Lee,%20a%20backend%20developer%20&fontSize=29&animation=twinkling&fontColor=FFFFFF&fontAlignY=32)
 <p align="center" style="margin-top: -100px;">
  
  ### 💻 Activities
