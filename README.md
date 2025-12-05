@@ -16,7 +16,7 @@
 * [**Microsoft AI.NET Day**](https://event-us.kr/msftkrdevrel/event/103287) "나만의 면접 코치 만든 썰 풀어드립니다.ai (feat. 시맨틱 커널 + MCP)" [강연](https://www.youtube.com/watch?v=JUmYN7E7hy8&list=LL&index=2&t=197s&ab_channel=MicrosoftDeveloperKorea) 🎤 (2025.05.29)
 * 웹소설 작가와 스토리텔러를 위한 AI 및 웹서비스 **Storyboard AI** Backend 개발 (2025.09 ~ 2025.12)
 * SW교육원 창업 아이템 경진대회 '캠퍼스 내 위치 기반 현장 정보 거래 플랫폼' 설계 및 Backend 개발 (2025.11.12) : **우수상 수상** 🏅
-* **카카오엔터프라이즈(kakaoenterprise)** 카카오 클라우드 PaaS팀 데이터플랫폼 개발 (2025.11 ~ ing)
+* **카카오엔터프라이즈(kakaoenterprise)** 카카오 클라우드 PaaS팀 데이터플랫폼(MySQL, Redis, PostgreSQL) 개발 (2025.11 ~ ing)
 
 ### 🛠 Languages and Tools
 
