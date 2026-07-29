@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=33333&height=160&section=header&text=Hi%20there!%20I'm%20dodo,%20a%20backend%20developer%20&fontSize=29&animation=twinkling&fontColor=FFFFFF&fontAlignY=32)
+![header](https://capsule-render.vercel.app/api?type=waving&color=33333&height=160&section=header&text=Hi%20there!%20I'm%20dodo,%20a%20cloud%20backend%20developer%20&fontSize=29&animation=twinkling&fontColor=FFFFFF&fontAlignY=32)
 <p align="center" style="margin-top: -100px;">
  
  ### 💻 Activities
@@ -19,17 +19,18 @@
 * 2025년 한국정보기술학회 추계종합학술대회 '잠자는 일꾼 문제와 동적 확장성: 클라우드 네이티브 환경의 AI 배포 프레임워크 비교분석' (2025.11.28) : **금상 수상** 🏅
 * 2025년 산학협력 프로젝트 경진대회 (2025.12.22) : **우수상 수상** 🏅
 * **카카오 클라우드 (kakao enterprise)** PaaS실 데이터저장플랫폼(PostgreSQL, ClickHouse) 개발 (2025.11 ~ ing)
+* **카카오테크캠퍼스** 4기 크루멘토 (2026.04 ~ ing)
 
 ### 🛠 Languages and Tools
 
  <img src="https://img.shields.io/badge/Java-000000?style=plastic&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/springboot-6DB33F?style=plastic&logo=Springboot&logoColor=white" /> <img src="https://img.shields.io/badge/mysql-4479A1?style=plastic&logo=MySQL&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white" /> <img src="https://img.shields.io/badge/git-F05032?style=plastic&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=plastic&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-1D63ED?style=plastic&logo=Docker&logoColor=white" /> <div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitJIHO&layout=compact&theme=codeSTACKr&count_private=true)
+![Top Langs](https://github-readme-stats-three-brown-91.vercel.app/api/top-langs/?username=GitJIHO&layout=compact&theme=codeSTACKr&count_private=true)
 
 
 ### 📋 GitHub Stats
-![GitJIHO's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitJIHO&include_all_commits=true&show_icons=true&theme=codeSTACKr&count_private=true)
+![GitJIHO's GitHub stats](https://github-readme-stats-three-brown-91.vercel.app/api?username=GitJIHO&include_all_commits=true&show_icons=true&theme=codeSTACKr&count_private=true)
 <br>
 
 ### 🚩 Baekjoon
