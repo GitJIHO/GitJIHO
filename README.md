@@ -4,7 +4,7 @@
 
 ## About Me
 - 현재 **카카오 클라우드(Kakao Enterprise)** PaaS실에서 **DBaaS(Database as a Service) Control Plane**을 개발하고 있습니다.
-- Kubernetes, etcd 등 **Cloud-Native 인프라**를 기반으로 **Managed Database(PostgreSQL, ClickHouse)** 서비스의 아키텍처를 설계하고 실제 프로덕션 환경을 구축합니다.
+- Kubernetes, etcd 등 **Cloud-Native 인프라**를 기반으로 **Managed Database(PostgreSQL, ClickHouse)** 서비스의 아키텍처를 설계하고 프로덕션 환경을 구축합니다.
 
 
 ## Tech Stack
@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
 ### Databases
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 
 ## Experience & Activities
 
