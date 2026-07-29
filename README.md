@@ -2,13 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FEE500&height=220&section=header&text=Hi%20there!%20I'm%20dodo&desc=Cloud%20Native%20and%20DBaaS%20Developer%20at%20Kakao%20Cloud&fontSize=40&fontAlignY=35&descAlignY=55&fontColor=000000" alt="header" />
 </div>
 
-<br>
-
 ## About Me
 - 현재 **카카오 클라우드(Kakao Enterprise)** PaaS실에서 **DBaaS(Database as a Service) Control Plane**을 개발하고 있습니다.
 - Kubernetes, etcd 등 **Cloud-Native 인프라**를 기반으로 **Managed Database(PostgreSQL, ClickHouse)** 서비스의 아키텍처를 설계하고 실제 프로덕션 환경을 구축합니다.
 
-<br>
 
 ## Tech Stack
 
@@ -20,8 +17,6 @@
 
 ### Databases
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<br>
 
 ## Experience & Activities
 
@@ -55,8 +50,6 @@
 * ✨ **2024 GLOW해커톤** (2024.06.01)
 * 🎓 **카카오테크캠퍼스** 2기 Backend 수료 (2024.04 ~ 2024.11)
 
-<br>
-
 ## GitHub Stats
 
 <div align="center">
@@ -72,14 +65,10 @@
   </table>
 </div>
 
-<br>
-
 ## Baekjoon
 <div align="center">
   <a href="https://solved.ac/jiho9932/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jiho9932" alt="Solved.ac Profile"/></a>
 </div>
-
-<br>
 
 ## Contact
 
