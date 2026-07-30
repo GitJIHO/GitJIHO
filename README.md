@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FEE500&height=220&section=header&text=Hi%20there!%20I'm%20dodo&desc=Cloud%20Native%20and%20DBaaS%20Developer%20at%20Kakao%20Cloud&fontSize=40&fontAlignY=35&descAlignY=55&fontColor=000000" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FEE500&height=220&section=header&text=Hi%20there!%20I'm%20dodo&desc=Cloud%20Native%20and%20DBaaS%20Developer&fontSize=40&fontAlignY=35&descAlignY=55&fontColor=000000" alt="header" />
 </div>
 
 ## About Me
